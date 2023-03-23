@@ -1,0 +1,15 @@
+/Users/aradarefi/Documents/G4225/G4255/Sem1Task01/bin/Debug/net6.0/Sem1Task01
+/Users/aradarefi/Documents/G4225/G4255/Sem1Task01/bin/Debug/net6.0/Sem1Task01.deps.json
+/Users/aradarefi/Documents/G4225/G4255/Sem1Task01/bin/Debug/net6.0/Sem1Task01.runtimeconfig.json
+/Users/aradarefi/Documents/G4225/G4255/Sem1Task01/bin/Debug/net6.0/Sem1Task01.dll
+/Users/aradarefi/Documents/G4225/G4255/Sem1Task01/bin/Debug/net6.0/Sem1Task01.pdb
+/Users/aradarefi/Documents/G4225/G4255/Sem1Task01/obj/Debug/net6.0/Sem1Task01.csproj.AssemblyReference.cache
+/Users/aradarefi/Documents/G4225/G4255/Sem1Task01/obj/Debug/net6.0/Sem1Task01.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aradarefi/Documents/G4225/G4255/Sem1Task01/obj/Debug/net6.0/Sem1Task01.AssemblyInfoInputs.cache
+/Users/aradarefi/Documents/G4225/G4255/Sem1Task01/obj/Debug/net6.0/Sem1Task01.AssemblyInfo.cs
+/Users/aradarefi/Documents/G4225/G4255/Sem1Task01/obj/Debug/net6.0/Sem1Task01.csproj.CoreCompileInputs.cache
+/Users/aradarefi/Documents/G4225/G4255/Sem1Task01/obj/Debug/net6.0/Sem1Task01.dll
+/Users/aradarefi/Documents/G4225/G4255/Sem1Task01/obj/Debug/net6.0/refint/Sem1Task01.dll
+/Users/aradarefi/Documents/G4225/G4255/Sem1Task01/obj/Debug/net6.0/Sem1Task01.pdb
+/Users/aradarefi/Documents/G4225/G4255/Sem1Task01/obj/Debug/net6.0/Sem1Task01.genruntimeconfig.cache
+/Users/aradarefi/Documents/G4225/G4255/Sem1Task01/obj/Debug/net6.0/ref/Sem1Task01.dll
