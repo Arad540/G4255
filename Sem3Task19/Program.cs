@@ -15,6 +15,7 @@ Boolean PalTst (int num)
    int r4 = (num/10)%10;   
 
    if (r1 == r5 && r2 == r4) 
+   res = true;
    return res;
 
 }

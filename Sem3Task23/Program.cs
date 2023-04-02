@@ -43,7 +43,7 @@ while (x1<(numN*3))
     Console.WriteLine(" "+LineGen(numN,1));
     Console.SetCursorPosition(res2,y2);
     Console.WriteLine("-");
-    Console.WriteLine(" "+LineGen(numN,2));
+    Console.WriteLine(" "+LineGen(numN,3));
     Console.SetCursorPosition(res3,y3);
     Console.WriteLine("-");
     
