@@ -26,4 +26,5 @@ BigInteger Factorial (int number)
 
 int numberA = ReadData("put number a: ");
 BigInteger res1 = Factorial (numberA );
+
 PrintResult ("Factorial: ",(BigInteger)res1);
