@@ -85,25 +85,8 @@ void Print1DArr(double[] arr)
     Console.WriteLine(arr[arr.Length - 1] + "]");
 }
 
-void paintDiag (int [,] arr)
-{
-   //     ConsoleColor[] col = new ConsoleColor[]{ConsoleColor.Black,ConsoleColor.Blue,ConsoleColor.Cyan,
-//                                         ConsoleColor.DarkBlue,ConsoleColor.DarkCyan,ConsoleColor.DarkGray,
-//                                         ConsoleColor.DarkGreen,ConsoleColor.DarkMagenta,ConsoleColor.DarkRed,
-//                                         ConsoleColor.DarkYellow,ConsoleColor.Gray,ConsoleColor.Green,
-//                                         ConsoleColor.Magenta,ConsoleColor.Red,ConsoleColor.White,
-//                                         ConsoleColor.Yellow};
-    for (int i = 0; i < arr.GetLength(0); i++) 
-    {
-        for(int j=0; j < arr.GetLength(1); j++)
-        {
-            //Console.ForegroundColor = col[new Random().Next(0,16)];
-           Console.Write(arr[i,j]+"\t ");
-            //Console.ResetColor();
-        }
-        Console.WriteLine("");
 
-} 
+
 
 // Runung methods code
 int row = ReadData("Введите количество строк: ");
