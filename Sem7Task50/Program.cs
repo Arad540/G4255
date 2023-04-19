@@ -70,7 +70,6 @@ Console.ForegroundColor = col[arr [x,y]];
             
 }
 
-
 int row = ReadData("Введите количество строк: ");
 int col = ReadData("Введите количество столбцов: ");
 int[,] arr2D = Gen2DArray(row,col,10,99);
