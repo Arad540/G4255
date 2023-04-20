@@ -94,6 +94,7 @@ Console.WriteLine();
 Priny2DArray(arr2D);
 Console.WriteLine();
 
+Console.WriteLine("Sorted arrey in columns ---------------------------------");
 SortToLowCol(arr2D);
 Console.WriteLine();
 Priny2DArray(arr2D);
